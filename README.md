@@ -1,6 +1,6 @@
 # Sarashina mini Website Generation
 
-https://724163-boop.github.io/SarashinaAI-s-website/
+https://724163-boop.github.io/SarashinaAI-s-website/index.html
 
 Sarashina mini に以下のプロンプトを渡してウェブサイトを構築させた結果。
 
